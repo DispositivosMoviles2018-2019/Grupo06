@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea_03_G06</string>
+    <string name="prompt_user">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">INICIAR SESIÓN</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_sign_out">CERRAR SESIÓN</string>
+    <string name="action_sign_out_short">Sign out</string>
+    <string name="txt_user1">VILMAR WLADIMIR CHIPUXI TRUJILLO</string>
+    <string name="txt_user2">JOSÉ ANDRÉS NARANJO SAMANIEGO</string>
+    <string name="txt_user3">JOEL BERNARDO VARGAS ARCOS</string>
+    <string name="txt_inicio">GRUPO 6</string>
+</resources>
