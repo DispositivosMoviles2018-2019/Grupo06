@@ -1,6 +1,6 @@
-## Grupo 06
+# Grupo 06
 
-# Integrantes:
+## Integrantes:
 
 - Chipuxi Wladimir
 - Naranjo José
