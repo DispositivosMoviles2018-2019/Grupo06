@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PROYECTO_FINAL_1H_G06</string>
+    <!--LOGIN-->
+    <string name="usuarioLogin">Usuario</string>
+    <string name="claveLogin">Contraseña</string>
+    <string name="iniciarLogin">INICIAR SESIÓN</string>
+    <string name="registrarLogin">REGISTRAR USUARIO</string>
+
+    <!--REGISTRAR USUARIO-->
+    <string name="tituloUsuario">REGISTRO DE USUARIO</string>
+    <string name="usuarioUsuario">Usuario</string>
+    <string name="claveUsuario">Contraseña</string>
+    <string name="confirmarUsuario">CONFIRMAR REGISTRO</string>
+
+    <!--REGISTRAR VEHICULO-->
+    <string name="tituloVehiculo">REGISTRO DE VEHICULO</string>
+    <string name="placaVehiculo">Placa</string>
+    <string name="marcaVehiculo">Marca</string>
+    <string name="fechaFabVehiculo">Fecha de fabricación</string>
+    <string name="costoVehiculo">Costo</string>
+    <string name="matriculadoVehiculo">Matriculado</string>
+    <string name="colorVehiculo">Color</string>
+
+    <string name="colorBlanco">Blanco</string>
+    <string name="colorNegro">Negro</string>
+    <string name="colorOtro">Otro</string>
+
+    <string name="confirmarVehiculo">CONFIRMAR REGISTRO</string>
+
+    <!--MENU LISTA VEHICULOS-->
+    <string name="insertarVehiculo">Insertar vehículo</string>
+    <string name="persistir">Persistir</string>
+    <string name="regresarLogin">Regresar</string>
+    <string name="salirApp">Salir de la aplicación</string>
+
+    <!-- ITEM VEHICULOS -->
+    <string name="editarVehiculo">EDITAR</string>
+    <string name="eliminarVehiculo">ELIMINAR</string>
+
+</resources>
