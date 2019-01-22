@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "249338552580",
+    "firebase_url": "https://ejemplofirebase-6b59c.firebaseio.com",
+    "project_id": "ejemplofirebase-6b59c",
+    "storage_bucket": "ejemplofirebase-6b59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249338552580:android:ccf0c4ddbfdfc6c3",
+        "android_client_info": {
+          "package_name": "ec.edu.uce.ejemplofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249338552580-mgcsoulmah8dglkc6qb9cn4s25f6b90t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARtHsoviWChuUnDVbWsyi5Rs0gfvPrT_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
